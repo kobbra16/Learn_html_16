@@ -1,0 +1,104 @@
+    #d1 {
+        width: 500px;
+        height: 200px;
+        border: 1px dotted blue;
+    }
+    
+    #d2 {
+        width: 100px;
+        height: 100px;
+        border: 1px dashed green;
+    }
+    
+    #d3 {
+        width: 500px;
+        height: 200px;
+        border-top: 1px solid blue;
+        border-top-width: 1px;
+        border-top-style: solid;
+        border-top-color: blue;
+        border-bottom: 1px solid red;
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+        border-bottom-color: red;
+        border-left: 1px solid black;
+        border-left-width: 1px;
+        border-left-style: solid;
+        border-left-color: black;
+        border-right: 1px solid green;
+        border-right-width: 1px;
+        border-right-style: solid;
+        border-right-color: green;
+        border-radius: 20px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+    }
+    
+    #d4 {
+        width: 300px;
+        height: 300px;
+        border: 1px dashed green;
+        border-top-color: green;
+        border-top-style: dashed;
+        border-top-width: 1px;
+        border-right-color: green;
+        border-right-style: dashed;
+        border-right-width: 1px;
+        border-bottom-color: green;
+        border-bottom-style: dashed;
+        border-bottom-width: 1px;
+        border-left-color: green;
+        border-left-style: dashed;
+        border-left-width: 1px;
+        border-image-source: initial;
+        border-image-slice: initial;
+        border-image-width: initial;
+        border-image-outset: initial;
+        border-image-repeat: initial;
+        border-radius: 10px 30px;
+    }
+    
+    #d5 {
+        width: 300px;
+        height: 300px;
+        border: 1px dotted green;
+        border-top-color: green;
+        border-top-style: dotted;
+        border-top-width: 1px;
+        border-right-color: green;
+        border-right-style: dotted;
+        border-right-width: 1px;
+        border-bottom-color: green;
+        border-bottom-style: dotted;
+        border-bottom-width: 1px;
+        border-left-color: green;
+        border-left-style: dotted;
+        border-left-width: 1px;
+        border-image-source: initial;
+        border-image-slice: initial;
+        border-image-width: initial;
+        border-image-outset: initial;
+        border-image-repeat: initial;
+        border-radius: 10px 30px 50px 70px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 30px;
+        border-bottom-right-radius: 50px;
+        border-bottom-left-radius: 70px;
+    }
+    
+    #l1 a:visited {
+        text-decoration: none;
+        color: blue;
+    }
+    
+    #l2 a:visited {
+        text-decoration: underline;
+        color: red;
+    }
+    
+    #l3 a:visited {
+        text-decoration: none;
+        color: black;
+    }
